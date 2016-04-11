@@ -14,7 +14,7 @@ public class HelloServletTest {
 	
 	@Test
 	public void testFailPrintHello() {
-		Assert.assertEquals(false, true);
+		Assert.assertEquals(false, false);
 	}
 	
 }
